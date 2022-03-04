@@ -18,6 +18,7 @@ Old Versions:
 - v1.3.2  (Jan-19-2022) (Supports ZealOS from this Version onwards)
 - v1.3.3  (Jan-22-2022) 
 - v1.3.4  (Feb-06-2022) (INCOMPATIBLE) 
+- v1.4.00 (Feb-27-2022)
 
-Current Version: v1.4.00 (Feb-27-2022) 
+Current Version: v1.4.01 (Mar-05-2022) 
  
