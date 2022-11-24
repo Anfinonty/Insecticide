@@ -25,6 +25,7 @@ Old Versions:
 - v1.4.04 (Jul-18-2022) 
 - v1.4.05 (Aug-14-2022) (INCOMPATIBLE: BREAKS THE MAP'S BACKGROUND SETTINGS UPON UPDATING)
 - v1.4.06 (Sept-11-2022)
+- v1.4.07 (Nov-05-2022) (DOES NOT WORK ON ZealOS)
 
-Current Version: v1.4.07 (Nov-05-2022) 
+Current Version: v1.4.08 (Nov-24-2022) 
  
